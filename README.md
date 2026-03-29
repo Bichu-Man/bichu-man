@@ -25,8 +25,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu-Man&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu-Man&layout=compact&theme=tokyonight&hide_border=false" alt="My Programming Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bichu-Man&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
