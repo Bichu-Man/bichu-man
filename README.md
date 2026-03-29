@@ -23,9 +23,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu-Man&theme=tokyonight" alt="Streak" />
 </p>
 
-<p align="center">
-  "If you don't laugh at my jokes, send them to a developer. Because you are not the one."
-</p>
 
 ## GitHub Analytics:
 <p align="center">
