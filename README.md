@@ -22,13 +22,18 @@
 ## GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu-Man&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu-Man&theme=tokyonight" alt="Streak" />
+</p>
+
+## GitHub Analytics:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bichu-Man&theme=tokyonight" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bichu-Man&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bichu-Man&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Bichu-Man&icon=0&color=5" />
+  <img src="https://visitcount.itsvg.in/api?id=Bichu-Man&icon=0&color=5" alt="Views" />
 </p>
