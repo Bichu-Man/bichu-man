@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Asfandyar (bichu-man)</h1>
-<h3 align="center">Engineew from Pawkistawn</h3>
+<h1 align="center">Hi, I'm Asfandyar (Bichu-Man)</h1>
+<h3 align="center">Engineer from Pakistan</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bichu-man&label=Profile%20views&color=0e75b6&style=flat" alt="bichu-man" />
+  <img src="https://komarev.com/ghpvc/?username=Bichu-Man&label=Profile%20views&color=0e75b6&style=flat" alt="Bichu-Man" />
 </p>
 
 ## About Me:
@@ -22,13 +22,13 @@
 ## GitHub Analytics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bichu-man&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichu-Man&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bichu-man&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bichu-Man&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bichu-man&icon=0&color=5" />
+  <img src="https://visitcount.itsvg.in/api?id=Bichu-Man&icon=0&color=5" />
 </p>
