@@ -19,11 +19,15 @@
 
 ---
 
-## GitHub Analytics:
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bichu-Man&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichu-Man&theme=tokyonight" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bichu-Man&theme=tokyonight" alt="Stats" />
+  "If you don't laugh at my jokes, send them to a developer. Because you are not the one."
+</p>
+
+## GitHub Analytics:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bichu-Man&theme=tokyonight" alt="Languages" />
 </p>
