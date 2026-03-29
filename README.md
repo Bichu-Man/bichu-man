@@ -6,10 +6,10 @@
 </p>
 
 ## About Me:
-- Im currently working onTUI SSH Portfolio(for me)    ♡  ╱|、                         dssdsd
-- Im working onStreet Food Tracking and ML              (˚ˎ 。7
-- Im currently learning GoLANG and Linear Algebra       |、˜〵
-- My current read is Dostoevsky's Crime & Punishment    じしˍ,)ノ 
+- Im currently working onTUI SSH Portfolio(for me) -- ♡  ╱|、             
+- Im working onStreet Food Tracking and ML ----------- (˚ˎ 。7
+- Im currently learning GoLANG and Linear Algebra ----  |、˜〵
+- My current read is Dostoevsky's Crime & Punishment -- じしˍ,)ノ 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asfandyar-Shahbaz) 
