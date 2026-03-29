@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asfandyar (Bichu-Man)</h1>
-<h3 align="center">Engineer from Pakistan</h3>
+<h3 align="center">Amost Engineew from Pawkistan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bichu-Man&label=Profile%20views&color=0e75b6&style=flat" alt="Bichu-Man" />
