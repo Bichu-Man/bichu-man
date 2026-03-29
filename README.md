@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Asfandyar (Bichu-Man)</h1>
-<h3 align="center">Amost Engineew from Pawkistan</h3>
+<h3 align="center">Almost Engineew from Pawkistan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Bichu-Man&label=Profile%20views&color=0e75b6&style=flat" alt="Bichu-Man" />
 </p>
 
 ## About Me:
-- TUI SSH Portfolio(for me)
-- Street Food Tracking and ML
-- GoLANG and Linear Algebra and Dostoevsky’s Crime and Punishment
+- Im currently working onTUI SSH Portfolio(for me)    ♡  ╱|、
+- Im working onStreet Food Tracking and ML              (˚ˎ 。7
+- Im currently learning GoLANG and Linear Algebra       |、˜〵
+- My current read is Dostoevsky's Crime & Punishment    じしˍ,)ノ 
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asfandyar-Shahbaz) 
