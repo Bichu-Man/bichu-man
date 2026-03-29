@@ -8,7 +8,7 @@
 ## About Me:
 - Im currently working onTUI SSH Portfolio(for me) --- ♡  ╱|、             
 - Im working onStreet Food Tracking and ML ----------- (˚ˎ 。7
-- Im currently learning GoLANG and Linear Algebra ----  |、˜〵
+- Im currently learning GoLANG and Linear Algebra -----  |、˜〵
 - My current read is Dostoevsky's Crime & Punishment - じしˍ,)ノ 
 
 ## Socials:
